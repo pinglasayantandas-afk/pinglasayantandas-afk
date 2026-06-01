@@ -1,121 +1,27 @@
-# Hi there 👋, I'm Sayantan Das
 
-### 🚀 AI & Machine Learning Student | Prompt Engineer | Building AI-Powered Solutions That Solve Real-World Problems
+ # Hi there, I'm Sayantan Das! 👋<br><br>### 🚀 AI-ML Engineer in Training | Intelligent Systems & Prompt Architecture<br>I am a Computer Science student specializing in Artificial Intelligence and Machine Learning.<br><br>---<br><br>### 🧰 Technical Expertise & Tooling<br><br>#### 🤖 Artificial Intelligence & Optimization<br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>![Prompt Engineering](https://img.shields.io/badge/Prompt%20Architecture-🤖-blueviolet?style=for-the-badge)<br>
 
-Passionate about leveraging Artificial Intelligence, Machine Learning, and Prompt Engineering to create impactful applications that improve safety, accessibility, and user experiences.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sayantan-das-531a9b39a?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sayantan Das) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pinglasayantandas@gmail.com) 
 
-## 💻 Tech Stack
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pinglasayantandas-afk&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pinglasayantandas-afk&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pinglasayantandas-afk&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🎨 Languages & Core Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat&logo=openai&logoColor=white)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pinglasayantandas-afk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat&logo=tensorflow&logoColor=orange)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat&logo=openai&logoColor=white)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-# 📈 Why Hire Me?
-
-| 🚀 Strength | 💡 Impact |
-|------------|-----------|
-| Real-World Problem Solver | Developed solutions focused on user safety and emergency response |
-| AI & Prompt Engineering | Skilled at designing intelligent workflows and AI-assisted systems |
-| Product-Oriented Mindset | Build projects that solve practical challenges instead of tutorial clones |
-| Continuous Learner | Constantly exploring emerging AI technologies and ML techniques |
-| Strong Development Foundation | Comfortable building end-to-end applications using Python |
-
-### Highlights
-
-✅ Built a Travel Safety Platform from scratch
-
-✅ Integrated Safety Index Tracking
-
-✅ Developed SOS Emergency Assistance Features
-
-✅ Designed Nearby Police Station Support System
-
-✅ Passionate about AI-driven Social Impact Projects
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pinglasayantandas-afk&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=pinglasayantandas-afk&icon=9&color=4)](https://visitcount.itsvg.in)
 
-# 🌟 Featured Projects
-
-| 🛠️ Project Name | 📝 Description & Impact | 🧰 Tech Stack |
-|----------------|-------------------------|--------------|
-| Travel Safety & Security Platform | Intelligent travel platform that provides safety ratings, location-based security insights, SOS assistance, and emergency support for travelers. | Python, AI, APIs |
-| AI Prompt Engineering Projects | Collection of AI-powered prompt workflows and optimization techniques for enhanced LLM performance. | Prompt Engineering, AI Tools |
-| Machine Learning Experiments | Practical ML projects focused on predictive analytics and real-world problem-solving. | Python, Machine Learning |
-
----
-
-# 📊 GitHub Analytics
-
-### GitHub Stats
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-```
-
-### Most Used Languages
-
-```markdown
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-```
-
-### GitHub Streak
-
-```markdown
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-```
-
----
-
-# 🏆 Current Focus
-
-🔹 Artificial Intelligence
-
-🔹 Machine Learning
-
-🔹 Prompt Engineering
-
-🔹 Generative AI
-
-🔹 Building Impactful AI Products
-
----
-
-# 📚 Learning Journey
-
-```text
-AI & Machine Learning ██████████████░░░░ 75%
-Prompt Engineering    █████████████████░ 85%
-Python Development    ███████████████░░░ 80%
-Data Science          ████████████░░░░░░ 65%
-```
-
----
-
-# 🤝 Let's Connect
-
-📧 Email:
-sayantan2565.beai25@chitkara.edu.in
-
-💼 LinkedIn:
-https://www.linkedin.com/in/sayantan-das-531a9b39a
-
----
-
-### 💬 Personal Motto
-
-"Building intelligent solutions today that create a safer and smarter tomorrow."
-
-⭐ If you like my work, consider following my GitHub journey!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
